@@ -4,8 +4,8 @@
 
 ## Team Members
 
-- **Mobina Khaksar**
-- **Sara Ghafoury**
+- **Mobina Khaksar** - 40117713
+- **Sara Ghafoury** - 40121233
 
 ---
 
@@ -123,8 +123,3 @@ pip install -r requirements.txt
 - Scikit-learn
 - Jupyter Notebook
 
----
-
-## Author
-
-This project was developed as part of the **Data Mining** course.
