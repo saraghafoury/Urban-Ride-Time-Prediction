@@ -4,7 +4,7 @@
 
 ## Team Members
 
-- **Mobina kaksar**
+- **Mobina Khaksar**
 - **Sara Ghafoury**
 
 ---
