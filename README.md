@@ -56,8 +56,6 @@ The following preprocessing steps were performed:
 - Validating coordinate values
 - Handling invalid passenger counts
 - Detecting and removing outliers using the IQR method
-- Calculating trip distance
-- Detecting unrealistic travel speeds
 
 ---
 
@@ -69,7 +67,8 @@ New features were generated, including:
 - Day of week
 - Month
 - Weekend indicator
-- Rush hour indicator
+- Rush hour indicators (2 approaches)
+- Speed km/h
 - Haversine distance
 - Manhattan distance
 - Encoded categorical variables
