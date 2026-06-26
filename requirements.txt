@@ -5,3 +5,8 @@ seaborn==0.13.2
 plotly==6.3.0
 joblib==1.5.1
 scipy==1.16.1
+scikit-learn
+xgboost
+lightgbm
+jupyter
+ipykernel
