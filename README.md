@@ -88,7 +88,7 @@ Urban-Ride-Time-Prediction/
 │   ├── Data_Cleaning.ipynb
 │   ├── Feature_Engineering.ipynb
 │   ├── EDA.ipynb
-│   └── Model_Training.ipynb
+│   └── Model_Training_and_Evaluation.ipynb
 │
 ├── requirements.txt
 ├── README.md
